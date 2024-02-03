@@ -1,7 +1,7 @@
 import os
 import platform
 import time
-import zpfile
+import zipfile
 
 print("[*] Checking Requirements Module....")
 def header():
